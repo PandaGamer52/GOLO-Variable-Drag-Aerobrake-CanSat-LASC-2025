@@ -1,5 +1,6 @@
 GOLO - Variable Drag Aerobrake CanSat 🛰️
 Este repositorio contiene el código fuente, los esquemáticos electrónicos y los modelos mecánicos de GOLO, un satélite autónomo (CanSat) de caída libre diseñado para realizar experimentos aerodinámicos durante su descenso.
+<img width="596" height="469" alt="image" src="https://github.com/user-attachments/assets/9eb35278-47a4-4a20-83ba-77cfbf2e0b08" />
 
 Este proyecto fue desplegado exitosamente en el Latin American Space Challenge (LASC) 2025, logrando el 5º lugar general.
 
